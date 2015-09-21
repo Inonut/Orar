@@ -24,7 +24,7 @@ public class Main extends Application{
 
 	@Override
 	public void start(Stage stage) throws Exception {
-		
+		//test commit
 		OrarSevices orarSevices = new OrarServicesImpl();
 		OrarDao orarDao = new OrarDaoImpl();
 		
