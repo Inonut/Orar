@@ -4,7 +4,7 @@ import javafx.scene.paint.Color;
 
 public class Cnst {
 	
-	public static final String URL = "D:/orarDB.txt";
+	public static final String URL = "C:/Users/Danescu/git/Orar/orarDB.txt";
 
 	public static String getColorFormat(Color color){
 		return String.format( "#%02X%02X%02X",
@@ -12,7 +12,7 @@ public class Cnst {
 	            (int)( color.getGreen() * 255 ),
 	            (int)( color.getBlue() * 255 ) );
 	}
-
+	
 	public static String getDayName(int currentDay) {
 		switch (currentDay) {
 		case 0:	return "Luni";
