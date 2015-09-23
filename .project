@@ -20,4 +20,11 @@
 		<nature>org.springframework.ide.eclipse.core.springnature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>orarDB.txt</name>
+			<type>1</type>
+			<location>D:/orarDB.txt</location>
+		</link>
+	</linkedResources>
 </projectDescription>
