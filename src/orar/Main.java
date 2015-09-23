@@ -1,15 +1,11 @@
 package orar;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 import orar.db.OrarDao;
 import orar.db.impl.OrarDaoImpl;
-import orar.domain.Prof;
 import orar.gui.model.impl.GeneralModel;
 import orar.gui.panel.impl.GeneralPanel;
 import orar.gui.presenter.impl.GeneralPresenter;
