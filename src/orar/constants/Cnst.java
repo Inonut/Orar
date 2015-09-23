@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 public class Cnst {
 	
 	public static final String URL = "C:/Users/Danescu/git/Orar/orarDB.txt";
-
+//dddd
 	public static String getColorFormat(Color color){
 		return String.format( "#%02X%02X%02X",
 	            (int)( color.getRed() * 255 ),
